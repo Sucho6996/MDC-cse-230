@@ -1,7 +1,7 @@
 stu=[]
 dict={}
 max=0
-maxMarks=0
+maxMarks=[]
 n=int(input("How many record you wanna add?: "))
 
 for i in range (n):
@@ -19,6 +19,9 @@ for i in range (n):
 for marks in dict.keys():
     if(dict.get(marks)>max):
         max=dict.get(marks)
-        maxMarks=marks
 
-print("\n\n\nMode of this dataset is: ",maxMarks)
+for marks in dict.keys():
+    if(dict.get(marks)==max):
+        maxMarks.append(marks)
+
+print("\n\n\nMode of this dataset is/are: ",maxMarks)
