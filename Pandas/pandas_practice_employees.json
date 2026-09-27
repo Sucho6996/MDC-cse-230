@@ -1,0 +1,810 @@
+{
+    "dataset": "Employee Practice Dataset",
+    "generated_for": "Pandas JSON Practice",
+    "total_records": 30,
+    "employees": [
+        {
+            "employee_id": "EMP1001",
+            "name": "Riya Sharma",
+            "age": 44,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Delhi",
+            "salary": 36289,
+            "experience_years": 3,
+            "employment_type": "Intern",
+            "performance_score": 9,
+            "projects_completed": 2,
+            "joining_date": "2025-03-04",
+            "skills": [
+                "Docker",
+                "Python",
+                "Communication",
+                "AWS"
+            ],
+            "contact": {
+                "email": "riya.sharma@example.com",
+                "phone": "+91-7939042955"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1002",
+            "name": "Neha Dutta",
+            "age": 21,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Pune",
+            "salary": 89426,
+            "experience_years": 13,
+            "employment_type": "Full-time",
+            "performance_score": 8,
+            "projects_completed": 8,
+            "joining_date": "2020-08-10",
+            "skills": [
+                "SQL",
+                "AWS"
+            ],
+            "contact": {
+                "email": "neha.dutta@example.com",
+                "phone": "+91-8815115025"
+            },
+            "address": {
+                "city": "Pune",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1003",
+            "name": "Rahul Sen",
+            "age": 27,
+            "gender": "Female",
+            "department": "IT",
+            "city": "Kolkata",
+            "salary": 67797,
+            "experience_years": 3,
+            "employment_type": "Part-time",
+            "performance_score": 6,
+            "projects_completed": 8,
+            "joining_date": "2021-10-25",
+            "skills": [
+                "Communication",
+                "React"
+            ],
+            "contact": {
+                "email": "rahul.sen@example.com",
+                "phone": "+91-7536124280"
+            },
+            "address": {
+                "city": "Kolkata",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1004",
+            "name": "Riya Patel",
+            "age": 30,
+            "gender": "Female",
+            "department": "Sales",
+            "city": "Delhi",
+            "salary": 27116,
+            "experience_years": 1,
+            "employment_type": "Intern",
+            "performance_score": 4,
+            "projects_completed": 9,
+            "joining_date": "2022-03-31",
+            "skills": [
+                "Excel",
+                "Docker"
+            ],
+            "contact": {
+                "email": "riya.patel@example.com",
+                "phone": "+91-7433797840"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1005",
+            "name": "Rahul Khan",
+            "age": 41,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Mumbai",
+            "salary": 64566,
+            "experience_years": 6,
+            "employment_type": "Intern",
+            "performance_score": 5,
+            "projects_completed": 2,
+            "joining_date": "2022-04-06",
+            "skills": [
+                "SQL",
+                "React",
+                "AWS",
+                "Java"
+            ],
+            "contact": {
+                "email": "rahul.khan@example.com",
+                "phone": "+91-7701808367"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1006",
+            "name": "Ananya Saha",
+            "age": 50,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Mumbai",
+            "salary": 25331,
+            "experience_years": 7,
+            "employment_type": "Full-time",
+            "performance_score": 6,
+            "projects_completed": 12,
+            "joining_date": "2023-03-09",
+            "skills": [
+                "Java",
+                "Communication",
+                "React"
+            ],
+            "contact": {
+                "email": "ananya.saha@example.com",
+                "phone": "+91-8351531223"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1007",
+            "name": "Vikram Banerjee",
+            "age": 49,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Mumbai",
+            "salary": 36301,
+            "experience_years": 7,
+            "employment_type": "Intern",
+            "performance_score": 9,
+            "projects_completed": 8,
+            "joining_date": "2020-05-20",
+            "skills": [
+                "Docker",
+                "React",
+                "Excel",
+                "SQL"
+            ],
+            "contact": {
+                "email": "vikram.banerjee@example.com",
+                "phone": "+91-7941975480"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1008",
+            "name": "Neha Khan",
+            "age": 23,
+            "gender": "Male",
+            "department": "IT",
+            "city": "Delhi",
+            "salary": 38969,
+            "experience_years": 13,
+            "employment_type": "Intern",
+            "performance_score": 2,
+            "projects_completed": 12,
+            "joining_date": "2019-07-21",
+            "skills": [
+                "Communication",
+                "React",
+                "SQL"
+            ],
+            "contact": {
+                "email": "neha.khan@example.com",
+                "phone": "+91-9376087131"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1009",
+            "name": "Riya Patel",
+            "age": 45,
+            "gender": "Female",
+            "department": "Operations",
+            "city": "Mumbai",
+            "salary": 32621,
+            "experience_years": 9,
+            "employment_type": "Part-time",
+            "performance_score": 3,
+            "projects_completed": 14,
+            "joining_date": "2018-02-17",
+            "skills": [
+                "React",
+                "Communication"
+            ],
+            "contact": {
+                "email": "riya.patel@example.com",
+                "phone": "+91-7767303988"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1010",
+            "name": "Riya Saha",
+            "age": 47,
+            "gender": "Male",
+            "department": "HR",
+            "city": "Mumbai",
+            "salary": 39174,
+            "experience_years": 0,
+            "employment_type": "Intern",
+            "performance_score": 6,
+            "projects_completed": 15,
+            "joining_date": "2023-09-11",
+            "skills": [
+                "Java",
+                "SQL"
+            ],
+            "contact": {
+                "email": "riya.saha@example.com",
+                "phone": "+91-8320763135"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1011",
+            "name": "Aarav Roy",
+            "age": 49,
+            "gender": "Male",
+            "department": "IT",
+            "city": "Pune",
+            "salary": 81699,
+            "experience_years": 2,
+            "employment_type": "Intern",
+            "performance_score": 3,
+            "projects_completed": 4,
+            "joining_date": "2020-09-07",
+            "skills": [
+                "Communication",
+                "React",
+                "Java",
+                "SQL"
+            ],
+            "contact": {
+                "email": "aarav.roy@example.com",
+                "phone": "+91-9266341635"
+            },
+            "address": {
+                "city": "Pune",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1012",
+            "name": "Ananya Roy",
+            "age": 50,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Mumbai",
+            "salary": 70296,
+            "experience_years": 11,
+            "employment_type": "Part-time",
+            "performance_score": 9,
+            "projects_completed": 14,
+            "joining_date": "2024-10-20",
+            "skills": [
+                "Excel",
+                "Java"
+            ],
+            "contact": {
+                "email": "ananya.roy@example.com",
+                "phone": "+91-7274989148"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1013",
+            "name": "Aarav Dutta",
+            "age": 38,
+            "gender": "Male",
+            "department": "Sales",
+            "city": "Delhi",
+            "salary": 18942,
+            "experience_years": 2,
+            "employment_type": "Intern",
+            "performance_score": 1,
+            "projects_completed": 7,
+            "joining_date": "2021-10-16",
+            "skills": [
+                "Python",
+                "Docker"
+            ],
+            "contact": {
+                "email": "aarav.dutta@example.com",
+                "phone": "+91-8419179580"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1014",
+            "name": "Neha Roy",
+            "age": 29,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Hyderabad",
+            "salary": 35342,
+            "experience_years": 15,
+            "employment_type": "Full-time",
+            "performance_score": 8,
+            "projects_completed": 13,
+            "joining_date": "2018-10-18",
+            "skills": [
+                "Java",
+                "Python"
+            ],
+            "contact": {
+                "email": "neha.roy@example.com",
+                "phone": "+91-9830309370"
+            },
+            "address": {
+                "city": "Hyderabad",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1015",
+            "name": "Priya Banerjee",
+            "age": 34,
+            "gender": "Female",
+            "department": "Operations",
+            "city": "Kolkata",
+            "salary": 30899,
+            "experience_years": 1,
+            "employment_type": "Part-time",
+            "performance_score": 6,
+            "projects_completed": 3,
+            "joining_date": "2022-11-01",
+            "skills": [
+                "Excel",
+                "Java"
+            ],
+            "contact": {
+                "email": "priya.banerjee@example.com",
+                "phone": "+91-9303329764"
+            },
+            "address": {
+                "city": "Kolkata",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1016",
+            "name": "Arjun Banerjee",
+            "age": 26,
+            "gender": "Female",
+            "department": "Marketing",
+            "city": "Delhi",
+            "salary": 27880,
+            "experience_years": 14,
+            "employment_type": "Intern",
+            "performance_score": 2,
+            "projects_completed": 1,
+            "joining_date": "2023-01-12",
+            "skills": [
+                "Python",
+                "Communication",
+                "Java",
+                "AWS"
+            ],
+            "contact": {
+                "email": "arjun.banerjee@example.com",
+                "phone": "+91-8745535098"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1017",
+            "name": "Vikram Roy",
+            "age": 48,
+            "gender": "Female",
+            "department": "IT",
+            "city": "Delhi",
+            "salary": 67672,
+            "experience_years": 0,
+            "employment_type": "Part-time",
+            "performance_score": 5,
+            "projects_completed": 14,
+            "joining_date": "2023-06-13",
+            "skills": [
+                "Docker",
+                "AWS",
+                "Communication"
+            ],
+            "contact": {
+                "email": "vikram.roy@example.com",
+                "phone": "+91-9387006772"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1018",
+            "name": "Vikram Sen",
+            "age": 27,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Kolkata",
+            "salary": 93914,
+            "experience_years": 1,
+            "employment_type": "Intern",
+            "performance_score": 6,
+            "projects_completed": 1,
+            "joining_date": "2025-06-04",
+            "skills": [
+                "Communication",
+                "React"
+            ],
+            "contact": {
+                "email": "vikram.sen@example.com",
+                "phone": "+91-9281169403"
+            },
+            "address": {
+                "city": "Kolkata",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1019",
+            "name": "Aarav Patel",
+            "age": 23,
+            "gender": "Male",
+            "department": "IT",
+            "city": "Hyderabad",
+            "salary": 26907,
+            "experience_years": 7,
+            "employment_type": "Part-time",
+            "performance_score": 2,
+            "projects_completed": 7,
+            "joining_date": "2019-10-07",
+            "skills": [
+                "Python",
+                "React",
+                "Communication",
+                "Excel"
+            ],
+            "contact": {
+                "email": "aarav.patel@example.com",
+                "phone": "+91-9823396242"
+            },
+            "address": {
+                "city": "Hyderabad",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1020",
+            "name": "Aditya Patel",
+            "age": 31,
+            "gender": "Female",
+            "department": "HR",
+            "city": "Pune",
+            "salary": 59180,
+            "experience_years": 7,
+            "employment_type": "Part-time",
+            "performance_score": 7,
+            "projects_completed": 4,
+            "joining_date": "2024-07-18",
+            "skills": [
+                "React",
+                "Excel",
+                "SQL",
+                "Python"
+            ],
+            "contact": {
+                "email": "aditya.patel@example.com",
+                "phone": "+91-7040009587"
+            },
+            "address": {
+                "city": "Pune",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1021",
+            "name": "Aditya Dutta",
+            "age": 24,
+            "gender": "Male",
+            "department": "Sales",
+            "city": "Delhi",
+            "salary": 84307,
+            "experience_years": 8,
+            "employment_type": "Full-time",
+            "performance_score": 6,
+            "projects_completed": 2,
+            "joining_date": "2023-02-21",
+            "skills": [
+                "AWS",
+                "SQL"
+            ],
+            "contact": {
+                "email": "aditya.dutta@example.com",
+                "phone": "+91-7677517496"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1022",
+            "name": "Neha Saha",
+            "age": 40,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Chennai",
+            "salary": 90692,
+            "experience_years": 9,
+            "employment_type": "Intern",
+            "performance_score": 2,
+            "projects_completed": 4,
+            "joining_date": "2022-11-30",
+            "skills": [
+                "Java",
+                "Python",
+                "AWS"
+            ],
+            "contact": {
+                "email": "neha.saha@example.com",
+                "phone": "+91-9376077463"
+            },
+            "address": {
+                "city": "Chennai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1023",
+            "name": "Rahul Saha",
+            "age": 40,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Mumbai",
+            "salary": 44685,
+            "experience_years": 8,
+            "employment_type": "Intern",
+            "performance_score": 8,
+            "projects_completed": 8,
+            "joining_date": "2019-09-29",
+            "skills": [
+                "Java",
+                "AWS"
+            ],
+            "contact": {
+                "email": "rahul.saha@example.com",
+                "phone": "+91-8819244083"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1024",
+            "name": "Aarav Sharma",
+            "age": 31,
+            "gender": "Male",
+            "department": "Operations",
+            "city": "Mumbai",
+            "salary": 39178,
+            "experience_years": 14,
+            "employment_type": "Intern",
+            "performance_score": 7,
+            "projects_completed": 0,
+            "joining_date": "2021-02-07",
+            "skills": [
+                "Java",
+                "AWS"
+            ],
+            "contact": {
+                "email": "aarav.sharma@example.com",
+                "phone": "+91-7640183291"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1025",
+            "name": "Aarav Gupta",
+            "age": 39,
+            "gender": "Male",
+            "department": "Marketing",
+            "city": "Delhi",
+            "salary": 23482,
+            "experience_years": 9,
+            "employment_type": "Part-time",
+            "performance_score": 1,
+            "projects_completed": 11,
+            "joining_date": "2024-02-13",
+            "skills": [
+                "Excel",
+                "AWS"
+            ],
+            "contact": {
+                "email": "aarav.gupta@example.com",
+                "phone": "+91-7441495235"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1026",
+            "name": "Neha Banerjee",
+            "age": 40,
+            "gender": "Male",
+            "department": "HR",
+            "city": "Chennai",
+            "salary": 39299,
+            "experience_years": 5,
+            "employment_type": "Part-time",
+            "performance_score": 1,
+            "projects_completed": 5,
+            "joining_date": "2021-12-19",
+            "skills": [
+                "AWS",
+                "Docker",
+                "Excel",
+                "Java"
+            ],
+            "contact": {
+                "email": "neha.banerjee@example.com",
+                "phone": "+91-8145921803"
+            },
+            "address": {
+                "city": "Chennai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1027",
+            "name": "Riya Banerjee",
+            "age": 48,
+            "gender": "Male",
+            "department": "Marketing",
+            "city": "Delhi",
+            "salary": 44158,
+            "experience_years": 14,
+            "employment_type": "Part-time",
+            "performance_score": 5,
+            "projects_completed": 7,
+            "joining_date": "2019-10-15",
+            "skills": [
+                "Python",
+                "AWS"
+            ],
+            "contact": {
+                "email": "riya.banerjee@example.com",
+                "phone": "+91-7829486135"
+            },
+            "address": {
+                "city": "Delhi",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1028",
+            "name": "Priya Saha",
+            "age": 48,
+            "gender": "Male",
+            "department": "Finance",
+            "city": "Mumbai",
+            "salary": 84768,
+            "experience_years": 12,
+            "employment_type": "Intern",
+            "performance_score": 9,
+            "projects_completed": 10,
+            "joining_date": "2022-06-21",
+            "skills": [
+                "Java",
+                "SQL"
+            ],
+            "contact": {
+                "email": "priya.saha@example.com",
+                "phone": "+91-7766942939"
+            },
+            "address": {
+                "city": "Mumbai",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1029",
+            "name": "Rahul Sharma",
+            "age": 24,
+            "gender": "Female",
+            "department": "Finance",
+            "city": "Pune",
+            "salary": 59114,
+            "experience_years": 13,
+            "employment_type": "Intern",
+            "performance_score": 9,
+            "projects_completed": 3,
+            "joining_date": "2024-07-06",
+            "skills": [
+                "Excel",
+                "SQL",
+                "Python"
+            ],
+            "contact": {
+                "email": "rahul.sharma@example.com",
+                "phone": "+91-8872852789"
+            },
+            "address": {
+                "city": "Pune",
+                "country": "India"
+            }
+        },
+        {
+            "employee_id": "EMP1030",
+            "name": "Neha Patel",
+            "age": 42,
+            "gender": "Male",
+            "department": "Finance",
+            "city": "Bengaluru",
+            "salary": 27171,
+            "experience_years": 10,
+            "employment_type": "Intern",
+            "performance_score": 6,
+            "projects_completed": 3,
+            "joining_date": "2018-01-07",
+            "skills": [
+                "React",
+                "Communication",
+                "SQL",
+                "Excel"
+            ],
+            "contact": {
+                "email": "neha.patel@example.com",
+                "phone": "+91-8400944900"
+            },
+            "address": {
+                "city": "Bengaluru",
+                "country": "India"
+            }
+        }
+    ]
+}
